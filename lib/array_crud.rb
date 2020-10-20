@@ -1,9 +1,8 @@
-def array = []
+def create_an_empty_array = []
 
-end
 
 def array = ["Cats", "Dogs", "Fish", "Birds"]
-  
+  array.length
 end
 
 def array = ["wow", "I", "am", "really", "learning"]
